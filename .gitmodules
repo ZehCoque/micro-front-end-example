@@ -1,0 +1,9 @@
+[submodule "angular-app"]
+	path = angular-app
+	url = https://github.com/ZehCoque/angular-app
+[submodule "root-config"]
+	path = root-config
+	url = https://github.com/ZehCoque/root-config
+[submodule "react-app"]
+	path = react-app
+	url = https://github.com/ZehCoque/react-app
