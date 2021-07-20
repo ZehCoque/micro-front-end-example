@@ -20,7 +20,7 @@ npm start
 For the ```angular-app``` project, run the command:
 
 ```
-serve:single-spa:angular-app
+npm run serve:single-spa:angular-app
 ```
 
 For the ```react-app``` project, run the command:
