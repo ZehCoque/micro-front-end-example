@@ -1,6 +1,15 @@
 # micro-front-end-example
 Exemple of a MicroFrontEnd architecture.
 
+# How to clone
+
+Perform a ```git clone``` normally. After the download, go to the main directory and perform two commands:
+
+```
+git submodule init
+git submodule update
+```
+
 # How to run
 
 After you clone this repository, go to each folder and run the command:
